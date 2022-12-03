@@ -3,7 +3,7 @@ My webpage
 > This is Omid
 > 
 <details>
-  <summary>Click me</summary>
+  <summary></summary>
   
   ### Heading
 Hi dude, feel free to ask my whatever you want :)
