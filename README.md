@@ -16,3 +16,7 @@ Hi dude, feel free to ask my whatever you want :)
   ```
 </details>
 
+### Error
+<p align="center">
+  <img width="100%" src="https://gist.github.com/Kattjakt/4b37c60a63e465e1474f61b7d2359640/raw/fe50781d79e10920849ffd4e0fa0719b106d631b/github-markdown-alerts_error.svg">
+</p>
